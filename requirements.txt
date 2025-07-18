@@ -1,0 +1,14 @@
+pandas
+plotly
+ipywidgets
+voila
+bqplot
+ipympl
+ipyvolume
+scipy
+voila
+numpy
+ipython
+requests
+urllib3
+anywidget

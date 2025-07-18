@@ -1,0 +1,6 @@
+{
+  "VoilaConfiguration": {
+    "show_tracebacks": true,
+    "disable_xsrf":    true
+  }
+}
